@@ -32,31 +32,35 @@ Greenhouse Gas Emissions Stacked Chart for Overall emissions by Gas shows that C
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/3b03ae65-fb6e-4614-9701-f5e953e25328)
 
 2. What are the Overall trends in Carbon Dioxide (CO2) Emissions in US over the past decade?
-  1.	Greenhouse Gas Emissions Trendline
+Greenhouse Gas Emissions Trendline
 A trendline was plotted to visualize the overall trend of greenhouse gas emissions for the period of 2010-2021. The line chart revealed the general trajectory of CO2 Emissions over the specified period
 
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/f867452f-c45b-4f19-a653-96680d77ce48)
 
 Analysis –
+
 • Carbon dioxide consistently sits nearly five times higher than methane, nitrous oxide, or fluorinated gases
 
 3. How do the emissions vary across regions /states in US?
-CO2 Emissions for States in the US (Average Bar Chart)
-A bar chart was created to display the average CO2 Emissions for each state. This visualization allowed for a comparison of emission levels across different states.
+CO2 Emissions for States in the US - A bar chart was created to display the average CO2 Emissions for each state. This visualization allowed for a comparison of emission levels across different states.
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/85b93e67-f257-47b8-9a54-c76f26fa46ae)
-Analysis - 
+Analysis -
+
 •	Texas and California, two of the largest states in the US, are the two highest producers of Co2 Emissions, followed by Florida, Pennsylvania, Illinois, and Ohio. This could be because they are both rank in the top 2 states for population and economic size.
 •	Texas’ emissions are significantly higher than any other state. (Approximately 650 million metric tons)
 •	States with Significantly lower emissions- According to EPA, these states often exhibit a combination of lower population density, less energy-intensive industries, cleaner energy sources, and proactive environmental policies contributing to their reduced carbon footprint.
 
-4. What are the major sectors or activities contributing to the emissions in US and how is it different regionally?
+5. What are the major sectors or activities contributing to the emissions in US and how is it different regionally?
    1.	Trendline showing emissions across Sectors
 Sectoral emissions were explored through a trendline chart, illustration the variations in CO2 emissions across sectors- Transportation, Electric Power, Industrial and others over the specified period
 
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/a2ad74a4-b304-4340-944c-b23f904524cd)
+
 Analysis 
+
 •	Electric power industry, transportation, and industry sectors have remained the three highest producers of Co2 emissions
 •	A significant gap has remained between the top three producers and the bottom three
+
 According to Sources (EPA and EIA) this is because of
 •	Heavy reliance on fossil fuels for operations especially in Transportation and Industrial, and Electrical 
 •	Higher energy intensity demand for powering equipment’s and machinery
@@ -68,8 +72,11 @@ According to Sources (EPA and EIA) this is because of
 An analysis was conducted to identify the top 5 states with the highest emissions in each sector. This analysis provided insights into the regional variations and emphasized the significant contributors in each sector
 
 Transportation sector CO2 Emissions
+
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/5ae6cadb-b45e-418e-a9a8-47d2aa2afa67)
+
 Analysis Transportation Sector
+
 •	The top five Co2 producers change for the transportation sector, with Texas being the only to remain
 •	Texas and California are the highest Co2 contributors in the transportation sector and both follow similar trends over the past 10 years
 •	All five states experience a sharp rise in emissions after 2020 (this could be due to Post COVID)
@@ -78,7 +85,9 @@ According to U.S Environmental Protection Agency (EPA), and U.S Energy Informati
 These states continue to work on various initiatives to reduce transportation emissions such as promoting Electric Vehicles (EV) and enhancing fuel efficiency standards, infrastructure development to support cleaner and sustainable transport options. However, the scale of their populations and economic activities makes it a challenge to reduce the emissions significantly 
 
 Electric Sector CO2 Emissions
+
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/2115728f-351e-45a3-80a8-c3045873e413)
+
 Analysis Electric Sector
 •	Texas’ tops the list in the Electric industry Co2 emissions.
 •	There has been an overall decline in the Co2 emissions in Texas
@@ -94,6 +103,7 @@ According to U.S Environmental Protection Agency (EPA), and U.S Energy Informati
 Industrial Sector CO2 Emissions
 
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/93506339-c922-4fae-a0e9-7885f8369f16)
+
 Analysis Industrial Sector
 •	Texas’ industrial sector is also the highest contributor among the top five states
 •	Texas also displays a gradual upward trend in industrial Co2 emissions, whereas other states remain steady 
@@ -102,19 +112,25 @@ According to U.S Environmental Protection Agency (EPA), and U.S Energy Informati
 Presence of Energy Intensive industries (Oil and Gas refining, chemical manufacturing, steel production), Fossil fuel extraction and processing (Texas,Lousiana,Pennsylvania) , Chemical and Petro chemical manufacturing(Texas and Louisiana), Steel and Metal production(Pennsylvania and Indiana), Large Power Plants, the inherent nature of these industries in these specific states contribute to the Co2 emissions.
 
 5. How do total CO2 emissions for the Top 5 states compare against the National Average of the total CO2 Emissions?
+   
 ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/0c4a159e-35d8-476d-b15e-e84eed3bf08b)
+
 Analysis 
 •	The national average of CO2 emissions is minimal compared to the top 5 producing states. 
 •	Texas, California, Florida, Pennsylvania, and Illinois are the leading states in CO2 emissions. 
 •	The gap between the leading state, Texas, and California in CO2 emissions shows the difference between California's push to quadruple clean energy production while Texas has no current goals. 
+
 Reasons specific to the trend (acccording to EIA and EPA)
 Though there have been measures to reduce emissions the energy demand and the historical reliance on fossil fuels make the transition to lower Co2 emissions a challenge.
 The higher presence of industries, population, and economic factors (some of the populous states in the country have high levels of economic activity compared to the smaller states), Energy production and consumption, transportation and infrastructure, Electricity generation mix, Climate and Geographical factors, Industrial composition all contribute to the varied difference with the National Average.
 
 Deeper Dive into Texas CO2 Emissions by Sector
+
    ![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/a51e654f-ba5f-4566-ade0-fb018abdd47f)
+
 Analysis: Texas has been the Top State in all the sectors we looked at (Industrial, Electric Power and Transportation).
 Texas the electric industry has seen a decline in Co2. This could be due to use of Renewable sources of energy for Electricity Generation.
+
 Information for Texas from other Sources (EPA and EIA)
 •	Texas leads as a top state in Crude oil and natural gas production. It also has the largest number of crude oil refineries, it has 1/3rd of the nation’s total refining capacity
 •	Texas produced more electricity than any other state
