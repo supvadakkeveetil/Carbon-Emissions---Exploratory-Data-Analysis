@@ -29,8 +29,8 @@ Converted our data from Excel and CSV files into Pandas Data Frames using the pa
 1. How do the emissions vary across regions /states in US?
 CO2 Emissions for States in the US (Average Bar Chart)
 A bar chart was created to display the average CO2 Emissions for each state. This visualization allowed for a comparison of emission levels across different states.
+![image](https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/assets/144635564/85b93e67-f257-47b8-9a54-c76f26fa46ae)
 
-Visualizations/Co2_Emissions_States_US.png
 
 Analysis - 
 •	Texas and California, two of the largest states in the US, are the two highest producers of Co2 Emissions, followed by Florida, Pennsylvania, Illinois, and Ohio. This could be because they are both rank in the top 2 states for population and economic size.
