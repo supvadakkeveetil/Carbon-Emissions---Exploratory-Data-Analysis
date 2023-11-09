@@ -10,6 +10,7 @@ This report presents a Comprehensive Analysis of CO2 Emissions in the United Sta
 The motivation for the project comes from the need to tackle the Environmental challenges and the leading causes for these issues. 
 #### Data Description 
 The Dataset comprises of detailed Co2 emissions across different sectors including Transportation, Electric Power, Industrial Sectors, and others. The data spans a timeline from 2010 to 2021 covering both national and state-level analysis.
+Data Source: 
 1.	US EPA (Environmental Protection Agency – Data (Historical) on the Greenhouse gas emissions in the United States.
 2.	US EIA (Energy Information Administration) – Data on State level emissions, Energy production and Electricity Generation Source.
 #### Data Cleaning and Preparation(DataExp_Cleaning_CarbonEmissions.ipynb) 
