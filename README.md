@@ -24,6 +24,19 @@ Converted our data from Excel and CSV files into Pandas Data Frames using the pa
 •	Removal on unnecessary Data –drop() function
 •	Quality checks on the data – looked to see the final structure of the cleaned-up data frame and made sure that the information and format is consistent across the Data Frames used for our analysis
 5.	Data Visualizations – Bar charts and Plots for showing the Trends across the years for different states, sectors.
+
+#### Analysis - 
+1. How do the emissions vary across regions /states in US?
+CO2 Emissions for States in the US (Average Bar Chart)
+A bar chart was created to display the average CO2 Emissions for each state. This visualization allowed for a comparison of emission levels across different states.
+
+Visualizations/Co2_Emissions_States_US.png
+
+Analysis - 
+•	Texas and California, two of the largest states in the US, are the two highest producers of Co2 Emissions, followed by Florida, Pennsylvania, Illinois, and Ohio. This could be because they are both rank in the top 2 states for population and economic size.
+•	Texas’ emissions are significantly higher than any other state. (Approximately 650 million metric tons)
+•	States with Significantly lower emissions- According to EPA, these states often exhibit a combination of lower population density, less energy-intensive industries, cleaner energy sources, and proactive environmental policies contributing to their reduced carbon footprint.
+
 #### Impact Analysis
 The analysis revealed several key insights
 •	The steady increase in CO2 emissions at the national level, indicates a pressing need for mitigation strategies.
