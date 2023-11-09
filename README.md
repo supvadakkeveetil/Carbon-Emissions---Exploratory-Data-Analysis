@@ -2,7 +2,7 @@
 Carbon Emissions across America - An exploratory study using visualizations
 ## Exploratory Data Analysis Report 
 Detailed report for analysis can be found under the link 
-......
+(https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/blob/main/EDA_Carbon_Emissions_Report.docx)
 
 ### Project Title: Carbon Emissions across America: Unveiling Regional Disparities, Key Contributors
 #### Introduction 
