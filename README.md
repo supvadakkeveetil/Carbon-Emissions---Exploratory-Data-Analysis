@@ -2,6 +2,7 @@
 Carbon Emissions across America - An exploratory study using visualizations
 ## Exploratory Data Analysis Report 
 Detailed report for analysis can be found under the link 
+
 (https://github.com/supvadakkeveetil/Carbon-Emissions---Exploratory-Data-Analysis/blob/main/EDA_Carbon_Emissions_Report.docx)
 
 ### Project Title: Carbon Emissions across America: Unveiling Regional Disparities, Key Contributors
@@ -51,6 +52,7 @@ Analysis -
 •	States with Significantly lower emissions- According to EPA, these states often exhibit a combination of lower population density, less energy-intensive industries, cleaner energy sources, and proactive environmental policies contributing to their reduced carbon footprint.
 
 5. What are the major sectors or activities contributing to the emissions in US and how is it different regionally?
+
    1.	Trendline showing emissions across Sectors
 Sectoral emissions were explored through a trendline chart, illustration the variations in CO2 emissions across sectors- Transportation, Electric Power, Industrial and others over the specified period
 
@@ -68,8 +70,9 @@ According to Sources (EPA and EIA) this is because of
 •	Agriculture produces more of methane and Nitrous Oxide and emissions are significantly less
 •	Residential and commercial contribute mainly through energy consumption for heating, electricity uses etc. there have been advancements in energy efficient technologies, so this explains why it is lower compared to the top 3
 
-2.	Top 5 States in each of the 3 Top Sector
+ 2.	Top 5 States in each of the 3 Top Sector
 An analysis was conducted to identify the top 5 states with the highest emissions in each sector. This analysis provided insights into the regional variations and emphasized the significant contributors in each sector
+
 
 Transportation sector CO2 Emissions
 
@@ -83,6 +86,7 @@ Analysis Transportation Sector
 
 According to U.S Environmental Protection Agency (EPA), and U.S Energy Information Administration (EIA), these states rank high due to factors such as traffic congestion, reliance on personal vehicles, limited public transportation alternatives and in the case of California the significant port and trade activities.
 These states continue to work on various initiatives to reduce transportation emissions such as promoting Electric Vehicles (EV) and enhancing fuel efficiency standards, infrastructure development to support cleaner and sustainable transport options. However, the scale of their populations and economic activities makes it a challenge to reduce the emissions significantly 
+
 
 Electric Sector CO2 Emissions
 
@@ -99,6 +103,7 @@ According to U.S Environmental Protection Agency (EPA), and U.S Energy Informati
 •	Indiana has seen a downward trend possibly due to Environmental Regulations, transitions away from coal, increased renewable energy integration, they have been implementing energy efficiency programs aimed at reducing energy consumption and using Energy efficient technologies
 •	Texas also sees a decrease due to some of the reasons like closure of Coal plants, Transition to Natural Gas and renewable sources of energy. Air quality regulations.
 •	These states are taking efforts to reduce the CO2 emissions in this sector by increasing the use of renewable sources of energy (Wind and Solar Power), improvements in energy efficiency.  However, these still remain a challenge due to various factors (economic, policy related and infrastructure)
+
 
 Industrial Sector CO2 Emissions
 
@@ -123,6 +128,7 @@ Analysis
 Reasons specific to the trend (acccording to EIA and EPA)
 Though there have been measures to reduce emissions the energy demand and the historical reliance on fossil fuels make the transition to lower Co2 emissions a challenge.
 The higher presence of industries, population, and economic factors (some of the populous states in the country have high levels of economic activity compared to the smaller states), Energy production and consumption, transportation and infrastructure, Electricity generation mix, Climate and Geographical factors, Industrial composition all contribute to the varied difference with the National Average.
+
 
 Deeper Dive into Texas CO2 Emissions by Sector
 
